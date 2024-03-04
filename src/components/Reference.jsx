@@ -65,7 +65,7 @@ export default function Reference() {
                 </ul>
               </div>
             </div>
-            <div className="col-sm-3">
+            <div className="col-sm-3 pb-3">
               <div className="card p-0 h-100">
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item p-3">

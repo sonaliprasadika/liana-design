@@ -1,8 +1,28 @@
-# React + Vite
+# Front-End Design 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- The Sweet Alert library was integrated, which displays a pleasant alert message upon successful subscription to the newsletter.
+- Clients, Employees and Users sections with animated numbers.
+- The page is responsive on different devices.
+- Parallax scrolling has been used for the Header Image which creates an illusion of depth by moving background and foreground elements at different speeds as the user scrolls down the page. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+
+- React 
+- Bootstrap
+- Vite
+- CSS
+- HTML
+- Sweetalert
+
+## Project Setup
+
+- Install the dependencies and devDependencies
+```sh
+npm install
+```
+- Start the Application
+```sh
+npm run dev
+```
